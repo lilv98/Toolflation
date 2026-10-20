@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local data and outputs
+/data/
+/raw/
+/out/
+
+# Credentials
+/api_keys.json
+
+.DS_Store

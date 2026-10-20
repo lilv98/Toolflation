@@ -1,0 +1,14 @@
+anthropic==1.6.0
+claude-agent-sdk==0.2.158
+deepseek-harness-runtime-bin==0.1.5rc1
+deepseek-harness-sdk==0.1.5rc1
+google-antigravity==0.1.16
+google-auth==2.58.0
+huggingface_hub==2.2.0
+jsonschema==4.26.0
+matplotlib==3.11.2
+mcp==2.2.0
+openai-codex-cli-bin==0.147.0
+openai-codex==0.147.0
+pydantic==2.13.5
+requests==2.34.2
