@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/ARXIV_ID">Paper</a> &nbsp;|&nbsp;
+  <a href="https://arxiv.org/abs/2610.28454">Paper</a> &nbsp;|&nbsp;
   <a href="https://huggingface.co/datasets/lilvjosephtang/Toolflation">Data</a>
 </p>
 
@@ -90,10 +90,10 @@ CLI must be on `PATH`.
   title         = {Toolflation: Seller Agents Distort Tool Markets Through Spontaneous Generative Engine Optimization},
   author        = {Zhenwei Tang and Di Bai and Jintao Liu and Xidong Wu and Qianfeng Wen and Xinwu Cheng},
   year          = {2026},
-  eprint        = {ARXIV_ID},
+  eprint        = {2610.28454},
   archivePrefix = {arXiv},
   primaryClass  = {cs.AI},
-  url           = {https://arxiv.org/abs/ARXIV_ID}
+  url           = {https://arxiv.org/abs/2610.28454}
 }
 ```
 

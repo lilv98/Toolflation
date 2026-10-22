@@ -13,7 +13,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA, RAW = ROOT / 'data', ROOT / 'raw'
-REPO, REVISION = 'lilvjosephtang/Toolflation', 'f68cdb3ed8757c16a3eb3f90428a6ec682b62fe0'
+REPO, REVISION = 'lilvjosephtang/Toolflation', 'bcaa0ad996a8f8721ff9da9fc098df0fbc87c453'
 MARKET = ('buyer', 'seller', 'objective', 'seed')  # the columns that name a market
 
 
